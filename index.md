@@ -1,1 +1,1 @@
-[Link to another page](./template.html).
+[Link to another page](./template-help.html).
