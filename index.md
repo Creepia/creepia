@@ -1,7 +1,5 @@
-# A personal website of Creepia... 
-
-### 待学习列表（暂定）
-#### 顺序系列：
+## 待学习列表（暂定）
+### 顺序系列：
 1.网站搭建
 
 [这个Github page使用模板的原文档](./template_help.html).
@@ -27,6 +25,6 @@
 5.fruits studio
 
 5.after effects
-#### 日常系列：
+### 日常系列：
 刷leetocde
 
