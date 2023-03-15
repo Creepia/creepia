@@ -29,7 +29,7 @@
 刷leetocde
 
 
-<form action="https://github.com/username/repo/issues/1" method="post">
+<form action="https://github.com/Creepia/creepia.github.io/issues/1" method="post">
   <input type="text" name="message" placeholder="请输入文字">
   <input type="submit" value="提交">
 </form>
