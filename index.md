@@ -4,6 +4,10 @@
 
 [这个Github page使用模板的原文档](./template_help.html).
 
+<div class="progress-container">
+  <div class="progress-bar"></div>
+</div>
+
 2.离散
 
 2.coq
