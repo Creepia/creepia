@@ -2,7 +2,7 @@
 ### 顺序系列：
 1.网站搭建
 
-[这个Github page使用模板的原文档](./template_help.html).
+[这个Github page使用模板的原文档](./pages/template_help.html).
 
 <div class="progress-container">
   <div class="progress-bar"></div>
